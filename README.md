@@ -1,6 +1,8 @@
 # ublox
 Fork de repositorio de dispositivo GNSS `ublox` realizado por [KumarRobotics](https://github.com/KumarRobotics/ublox)
 
+> Branch por defecto, para uso de `kivnon` --> `kivnon`
+
 ## Requisitos
 
 1. Instalar `asio`:
